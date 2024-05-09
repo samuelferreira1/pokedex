@@ -1,12 +1,16 @@
 @charset "UTF-8"; 
 
-@import url('https://fonts.googleapis.com/css?family=0xanium:wght@300;400; 500;600;780; 800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Oxanium', sans-serif;
+    font-family: 'Oxanium', 'Roboto' , sans-serif;
 }
 
 body {
